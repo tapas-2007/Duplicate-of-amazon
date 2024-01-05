@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: rgb(255, 174, 0);
+}
+#logo{
+    color: rgb(255, 174, 0);
+    font-size: 25px;
+}
+a{
+    margin-right: 180px;
+    text-decoration: none;
+}
